@@ -1,11 +1,11 @@
 .content {
+  font-family: Raleway, sans-serif;
   position: relative;
   display: flex;
   height: inherit;
   min-width: 800px;
   margin: 0;
   padding-top: 60px;
-  font-family: Raleway, sans-serif;
   background-color: #fec7ee;
 }
 
@@ -28,7 +28,7 @@
 
 .content__heading {
   z-index: 1;
-  max-width: 720px;
+  max-width: 739px;
   margin: 0 auto;
   font-size: 116px;
   letter-spacing: 3.5px;

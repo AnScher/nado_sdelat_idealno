@@ -36,6 +36,7 @@
   text-transform: uppercase;
 }
 
+
 .content__heading:hover {
   color: #4c4c4c;
   cursor: default;
@@ -52,6 +53,7 @@
   padding: 36px 44px;
   box-shadow: 0 14px 0 #000;
   color: #000;
+  font-family: Raleway-Regular, sans-serif;
   font-weight: 400;
   font-size: 35px;
   line-height: 100%;
